@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [https://github.com/ChinatuL/Huddle-Landing-Page-Single](https://github.com/ChinatuL/Huddle-Landing-Page-Single)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://chinatul.github.io/Huddle-Landing-Page-Single/](https://chinatul.github.io/Huddle-Landing-Page-Single/)
 
 ## My process
 
