@@ -84,20 +84,16 @@ footer {
     margin-right: 3rem;
 }
 
-.social-links a {
-    color: var(--white);
-}
-
-.social-links a:hover {
-    color: var(--soft-magenta);
-}
-
 .fa-brands {
     font-size: 14px;
     border: 1px solid var(--white);
     border-radius: 50%;
     margin-right: 0.5rem;
     vertical-align: middle;
+}
+
+.fa-brands:hover {
+    color: var(--soft-magenta);
 }
 
 .fa-facebook-f {
